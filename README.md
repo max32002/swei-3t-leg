@@ -88,6 +88,8 @@ https://max-everyday.com/2020/08/b2-hana-font/
 https://max-everyday.com/2020/08/hana-meatball/
 
 獅尾黑體家族：
+* 獅尾德魯納黑體 Swei Del Luna Sans
+https://max-everyday.com/2020/09/swei-del-luna-sans/
 * 獅尾彎腿黑體 Swei Curve Leg
 https://max-everyday.com/2020/09/swei-curve-leg/
 * 獅尾彎黑體 Swei Curve Sans
